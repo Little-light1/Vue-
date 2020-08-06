@@ -18,7 +18,7 @@ body,
     margin-top: 20px;
 }
 .el-cascader{
-    width: 100%;
+    width: 270px;
 }
 .el-cascader-menu{
     height: 300px;
@@ -26,4 +26,10 @@ body,
 .el-alert{
     font-size:15px;
     height:30px;
+}
+.el-step__title {
+    font-size: 14px;
+}
+.ql-editor{
+    min-height: 300px;
 }
